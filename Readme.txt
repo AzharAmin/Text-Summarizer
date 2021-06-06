@@ -1,4 +1,4 @@
-Automatic Text Summarizer
+Automatic Text Summarizer Python based
 
 In this min project my aim was to get summarized sentence from a large text file.
 therefore, i wrote this code to get summarized sentence.
